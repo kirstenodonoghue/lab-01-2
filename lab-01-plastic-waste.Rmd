@@ -1,7 +1,7 @@
 ---
 title: "Lab 01 - Plastic waste"
 author: "Kirsten, Sophie, Janice"
-date: "`r Sys.Date()`"
+date: "`r Sys.Date(30/09/2022)`"
 output: html_document
 ---
 
